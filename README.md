@@ -11,4 +11,4 @@ This project looked to investigate the performance of several sorting algorithms
 - Python 
 
 ## Report
-The report for this project can be found here.
+The report for this project can be found [here] (https://drive.google.com/file/d/1QQiPkpoHk--v7xqnQno-MEkMxqSrjHgK/view?usp=sharing).
